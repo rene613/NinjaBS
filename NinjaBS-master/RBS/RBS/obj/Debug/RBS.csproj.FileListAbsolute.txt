@@ -1,1 +1,2 @@
 D:\school\repo\RBS\RBS\bin\Debug\RBS.exe.config
+D:\School\ninja\NinjaBS-master\RBS\RBS\bin\Debug\RBS.exe.config
